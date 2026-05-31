@@ -40,13 +40,15 @@ This Power BI dashboard provides comprehensive insights into patient demographic
 
 ## Dashboard Versions
 
-### Version 1 – With Borders
+### Version 1 – Without Borders
+
+A modern and clean dashboard design focused on readability and user experience.
+
+### Version 2 – With Borders
 
 A structured dashboard design with bordered visual containers.
 
-### Version 2 – Without Borders
 
-A modern and clean dashboard design focused on readability and user experience.
 
 ## Project Files
 
