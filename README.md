@@ -70,7 +70,6 @@ A modern and clean dashboard design focused on readability and user experience.
 ### Patient Trends (With Borders)
 
 ![Patient Trends With Borders](Patients%20Trends%20with%20Borders.jpeg)
-
 ## Author
 
 **Shaik Afroz**
