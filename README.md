@@ -57,19 +57,19 @@ A modern and clean dashboard design focused on readability and user experience.
 
 ### Patient Overview (Without Borders)
 
-![Patient Overview](Patient%20Overview%20without%20Borders.jpg)
+![Overview](overview_without_borders.jpg)
 
 ### Patient Trends (Without Borders)
 
-![Patient Trends](Patient%20Trends%20without%20borders.jpg)
+![Trends](trends_without_borders.jpg)
 
 ### Patient Overview (With Borders)
 
-![Patient Overview With Borders](Patients%20Overview%20With%20Borders.jpg)
+![Overview With Borders](overview_with_borders.jpg)
 
 ### Patient Trends (With Borders)
 
-![Patient Trends With Borders](Patients%20Trends%20with%20Borders.jpeg)
+![Trends With Borders](trends_with_borders.jpg)
 ## Author
 
 **Shaik Afroz**
